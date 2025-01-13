@@ -25,3 +25,13 @@ replay_pid*
 
 # 입력 예제
 in
+
+# cph
+.cph
+
+# vscode
+.vscode
+
+# swp
+*.swp
+
